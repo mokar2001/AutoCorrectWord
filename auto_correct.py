@@ -1,7 +1,4 @@
 import re
-from collections import Counter
-import numpy as np
-import pandas as pd
 from itertools import permutations
 import string
 from functools import lru_cache
