@@ -11,5 +11,5 @@ Memoization is as fast as dynamic programming algorithms.
 ```python
 from auto_correct import autoCorrect
 print(autoCorrect('flw')) # flow
-print(autoCorrect('father')) # father
+print(autoCorrect('fater')) # father
 ```
