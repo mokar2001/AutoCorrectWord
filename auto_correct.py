@@ -1,5 +1,4 @@
 import re
-from itertools import permutations
 import string
 from functools import lru_cache
 
