@@ -1,5 +1,5 @@
 # AutoCorrectWord
-AutoCorrect words with Minimum Edit Distacne Algorithm and Shakespear dataset
+AutoCorrect words with Minimum Edit Distance Algorithm and Shakespear dataset
 
 ### What is `lru_cache`?
 It is a caching decorator that we have used it to act `min_edit_dist` like a momization recursive function.
